@@ -1,0 +1,8 @@
+c:\users\asus\documents\visual studio 2010\Projects\çalışma sorusu 4\çalışma sorusu 4\bin\Debug\çalışma sorusu 4.exe
+c:\users\asus\documents\visual studio 2010\Projects\çalışma sorusu 4\çalışma sorusu 4\bin\Debug\çalışma sorusu 4.pdb
+c:\users\asus\documents\visual studio 2010\Projects\çalışma sorusu 4\çalışma sorusu 4\obj\x86\Debug\çalışma_sorusu_4.Form1.resources
+c:\users\asus\documents\visual studio 2010\Projects\çalışma sorusu 4\çalışma sorusu 4\obj\x86\Debug\çalışma_sorusu_4.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2010\Projects\çalışma sorusu 4\çalışma sorusu 4\obj\x86\Debug\çalışma sorusu 4.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2010\Projects\çalışma sorusu 4\çalışma sorusu 4\obj\x86\Debug\çalışma sorusu 4.exe
+c:\users\asus\documents\visual studio 2010\Projects\çalışma sorusu 4\çalışma sorusu 4\obj\x86\Debug\çalışma sorusu 4.pdb
+C:\Users\asus\Documents\Visual Studio 2010\Projects\çalışma sorusu 4\çalışma sorusu 4\obj\x86\Debug\çalışma sorusu 4.csprojResolveAssemblyReference.cache
